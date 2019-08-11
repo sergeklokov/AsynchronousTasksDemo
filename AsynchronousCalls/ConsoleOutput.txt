@@ -1,0 +1,15 @@
+﻿0,83;1,364;2,479;3,268;4,405;5,455;6,240;7,312;8,12;9,143;10,363;11,255;12,425;13,190;14,443;15,103;16,442;17,61;
+
+Call asynchronously was done. Elapsed time: 1022 ms
+1,51;0,72;3,127;6,264;7,11;5,390;4,427;2,485;9,125;10,223;8,358;12,201;11,330;14,222;15,321;13,447;16,387;17,437;
+
+Call asynchronously in batches. Done. Elapsed time: 1425 ms
+0,23;1,124;2,53;3,278;4,239;5,419;6,484;7,43;8,475;9,255;10,41;11,245;12,66;13,330;14,110;15,415;16,154;17,87;
+
+Call synchronously was done. Elapsed time: 3852 ms
+All done. Press any key..
+
+C:\Program Files\dotnet\dotnet.exe (process 11204) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
